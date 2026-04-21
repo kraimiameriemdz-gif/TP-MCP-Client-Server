@@ -53,6 +53,5 @@ Je vais à Alger avec 120 euros. Combien cela fait en dinars et quel temps fait-
    * météo
 4. Le LLM combine les résultats
 5. Réponse finale générée
-6. 
 ## Auteur :
 Projet réalisé dans le cadre d’un TP en intelligence artificielle.
