@@ -38,7 +38,7 @@ Retourne une météo simulée :
 ### 2- eur_to_dzd(amount)
 Convertit des euros en dinars algériens :
 * Taux utilisé : 1 EUR = 145 DZD
-* 
+  
 ### Question :
 Je vais à Alger avec 120 euros. Combien cela fait en dinars et quel temps fait-il ?
 
