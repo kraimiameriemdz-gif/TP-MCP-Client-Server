@@ -2,11 +2,12 @@
 
 ## Description :
 -Ce projet implémente une architecture **client–serveur** basée sur le **Model Context Protocol (MCP)** en utilisant **LangChain** et **Ollama**.
+
 -L’objectif est de créer un assistant intelligent capable de :
 * convertir des euros en dinars algériens
 * fournir la météo d’une ville
 * utiliser dynamiquement des outils exposés par un serveur MCP
-* 
+
 ## Concepts utilisés :
 * Model Context Protocol (MCP)
 * Architecture client–serveur
