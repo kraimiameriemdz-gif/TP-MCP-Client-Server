@@ -14,7 +14,7 @@
 * Tool Calling avec un LLM
 * Agents LangChain
 * LLM local avec Ollama
-* 
+  
 ## Architecture :
 Utilisateur
 ⬇
